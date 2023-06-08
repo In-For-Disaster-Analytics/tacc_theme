@@ -1,9 +1,8 @@
 /* =====================================================
    The "account masthead" bar across the top of the site
    ===================================================== */
-
-   .account-masthead {
-    background-color: rgb(40, 40, 40);
+.account-masthead {
+    background-color: rgb(40, 40, 40) !important;
 }
 /* The "bubble" containing the number of new notifications. */
 .account-masthead .account .notifications a span {
